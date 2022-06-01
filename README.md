@@ -5,6 +5,7 @@
   <li>JAVASCRIPT</li>
   <li>GIT</li>
   <li>REACTJS</li>
+  <li>REDUX</li>
   <li>...in progress</li>
 </ul>
 
