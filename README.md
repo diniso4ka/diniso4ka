@@ -1,6 +1,6 @@
 <h1>💻Technology stack:</h1>
 <ul>
-  <li>HTML</li>
+  <li>HTML, SEMANTIC</li>
   <li>CSS, SCSS, BEM</li>
   <li>JAVASCRIPT</li>
   <li>GIT</li>
