@@ -2,7 +2,7 @@
 <ul>
   <li>HTML, SEMANTIC</li>
   <li>CSS, SCSS, BEM</li>
-  <li>JAVASCRIPT</li>
+  <li>JAVASCRIPT/TYPESCRIPT</li>
   <li>GIT</li>
   <li>REACTJS</li>
   <li>REDUX</li>
