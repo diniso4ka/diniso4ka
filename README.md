@@ -6,7 +6,7 @@
   <li>GIT</li>
   <li>REACTJS</li>
   <li>REDUX</li>
-<li>JEST TESTS</li>
+<li>UNIT TESTS</li>
   <li>...in progress</li>
 </ul>
 
