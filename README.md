@@ -17,4 +17,4 @@
 <li>mail: den.zagrosh@gmail.com</li>
 </ul>
 <h1>My activity</h1>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=diniso4ka)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=diniso4ka&theme=dark)]
