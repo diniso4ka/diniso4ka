@@ -18,4 +18,4 @@
 </ul>
 <h1>My activity</h1>
 <img src="https://streak-stats.demolab.com/?user=diniso4ka&theme=dark" alt="GitHub Streak" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=dinis04ka" style="max-width: 100%;">
-<img src="https://git.io/streak-stats" alt="GitHub Streak" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=dinis04ka" style="max-width: 100%;">
+
