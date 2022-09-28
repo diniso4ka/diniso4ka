@@ -10,7 +10,7 @@
 <li>UNIT TESTS</li>
   <li>...in progress</li>
 </ul>
-<h2> 📩 Contacts:
+<h1> 📩 Contacts:</h1>
 <ul>
 <li><a href="https://t.me/penaplast3104">telegram</a></li>
 <li><a href="https://vk.com/electrokurwa228">vkontakte</a></li>
