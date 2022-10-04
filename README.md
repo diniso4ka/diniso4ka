@@ -1,4 +1,5 @@
 <h1>💻Technology stack:</h1>
+<h2>Frontend</h2>
 <ul>
   <li>HTML, SEMANTIC</li>
   <li>CSS, SCSS, BEM</li>
@@ -9,6 +10,13 @@
    <li>WEBPACK</li>
 <li>UNIT TESTS</li>
   <li>...in progress</li>
+</ul>
+<h2>Backend</h2>
+<ul>
+  <li>NodeJs</li>
+  <li>MongoDB</li>
+  <li>express</li>
+  <li>mongoose</li>
 </ul>
 <h1> 📩 Contacts:</h1>
 <ul>
