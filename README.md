@@ -2,13 +2,13 @@
 <h2>Frontend</h2>
 <ul>
   <li>HTML, SEMANTIC</li>
-  <li>CSS, SCSS, BEM</li>
-  <li>JAVASCRIPT/TYPESCRIPT</li>
-  <li>GIT</li>
-  <li>REACTJS</li>
-  <li>REDUX</li>
-   <li>WEBPACK</li>
-<li>UNIT TESTS</li>
+  <li>Css, Scss, BEM</li>
+  <li>JavaScript/TypeScript</li>
+  <li>Git</li>
+  <li>ReactJS</li>
+  <li>Reduxtoolkit</li>
+   <li>Webpack</li>
+<li>Unit tests</li>
   <li>...in progress</li>
 </ul>
 <h2>Backend</h2>
