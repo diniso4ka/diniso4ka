@@ -26,4 +26,4 @@
 <h1>My activity</h1>
 <img src="https://streak-stats.demolab.com/?user=diniso4ka&theme=dark" alt="GitHub Streak" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=dinis04ka" style="max-width: 100%;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diniso4ka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diniso4ka&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
