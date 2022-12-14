@@ -1,4 +1,6 @@
-<h1>💻[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)Technology stack:</h1>
+<h1>💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+technology+stack)](https://git.io/typing-svg)
+</h1>
 <h2>Frontend</h2>
 <ul>
   <li>HTML, SEMANTIC</li>
