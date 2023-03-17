@@ -21,6 +21,7 @@
 <ul>
 <li><a href="https://t.me/penaplast3104">telegram</a></li>
 <li><a href="https://vk.com/electrokurwa228">vkontakte</a></li>
+<li><a href="https://www.linkedin.com/in/diniso4ka/">linkedin</a></li>
 <li>mail: den.zagrosh@gmail.com</li>
 </ul>
 <h1>My activity</h1>
