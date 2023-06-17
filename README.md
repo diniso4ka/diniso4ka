@@ -8,7 +8,6 @@
   <li>ReactJS</li>
   <li>Reduxtoolkit</li>
   <li>Webpack</li>
-  <li>...in progress</li>
 </ul>
 <h2>Backend</h2>
 <ul>
